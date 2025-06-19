@@ -10,6 +10,8 @@ Temporal feature engineering (seasonal averages, rolling statistics)
 Data denoising (interpolation, Savitzky-Golay filtering)
 
 Structured pipelines (scikit-learn Pipeline for preprocessing + modeling)
+
+
 🛠️ Tech Stack
 Python 3 + scikit-learn, pandas, NumPy
 
